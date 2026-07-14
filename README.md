@@ -12,6 +12,8 @@
 ### Abstract
 Runtime interruptions significantly affect the stability and continuity of modern distributed enterprise systems operating in cloud native and containerized environments. Existing reactive recovery mechanisms often respond only after failures propagate, leading to service disruptions, delayed recovery, and unstable execution. The proposed framework introduces adaptive runtime-aware failure handling through intelligent state analysis, dynamic recovery orchestration, and workload stabilization mechanisms. It continuously evaluates runtime behavior to coordinate proactive recovery actions before instability spreads across interconnected services. The study demonstrates that adaptive failure handling improves infrastructure resilience, operational continuity, and recovery efficiency in large-scale distributed environments.
 
+**Core Technical Contributions**
+
 - **Intelligent Communication Flow Stabilization Framework:** \
   Designed a runtime-aware framework that continuously monitors communication behavior and dynamically stabilizes transmission across distributed enterprise systems.
 - **Real-Time Communication Monitoring Mechanism:** \
