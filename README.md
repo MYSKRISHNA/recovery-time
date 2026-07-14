@@ -26,13 +26,13 @@ Introduced an automated stabilization process that performs workload redistribut
 Evaluated recovery performance across infrastructures with 3, 5, 7, 9, and 11 nodes, demonstrating that predictive recovery consistently achieves lower recovery time and better scalability than conventional reactive recovery approaches.
 ### Experimental Results (Summary)
 
-  | Nodes | Runtime delay (ms) | Coordinated delay (ms) | Improvement (%) |
-  |-------|--------------------| -----------------------| ----------------|
-  | 3     |  1180              | 540                    | 54.24           |
-  | 5     |  1430              | 670                    | 53.15           |
-  | 7     |  1690              | 810                    | 52.07           |
-  | 9     |  1960              | 960                    | 51.02           |
-  | 11    |  2240              | 1120                   | 50.00           |
+  | Nodes | Reactive Recovery Time (ms) | Predictive  Recovery Time (ms) | Improvement (%) |
+  |-------|-----------------------------| -------------------------------| ----------------|
+  | 3     |  1510                       | 660                            | 56.29           |
+  | 5     |  1760                       | 790                            | 55.11           |
+  | 7     |  2030                       | 930                            | 54.19           |
+  | 9     |  2310                       | 1080                           | 53.25           |
+  | 11    |  2590                       | 1230                           | 52.51           |
 
 ### Citation
 Failure Handling Efficiency During Runtime Interruptions
