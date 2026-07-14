@@ -35,14 +35,14 @@ Evaluated recovery performance across infrastructures with 3, 5, 7, 9, and 11 no
   | 11    |  2240              | 1120                   | 50.00           |
 
 ### Citation
-Communication Flow Stabilization Across Multi Node Enterprise Systems
+Failure Handling Efficiency During Runtime Interruptions
 * SaiKrishna Mylavarapu
-* International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS) 
-* ISSN E-ISSN: 2349-7300
+* Journal of Advances in Developmental Research(IJAIDR) 
+* ISSN E-ISSN: 0976-4844
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.
 * Resources \
-https://www.ijirmps.org/ 
+https://www.ijaidr.com/ 
 * Author Contact \
   **LinkedIn**: linkedin.com/in/saikrishna-mylavarapu-35479114 | **Email**: krishnamysap@gmail.com
 
